@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Treino+</string>
+    <string name="action_settings">Sair da conta</string>
+    <string name="action_perfil">Perfil</string>
+    <string name="action_instrucoes">Instruções</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_section1">Salas</string>
+    <string name="title_section2">xxx</string>
+    <string name="title_section3">xxx</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_endereco_estado">EnderecoEstadoActivity</string>
+    <string name="title_activity_cidade">CidadeActivity</string>
+    <string name="title_activity_salas">Salas de Exercício</string>
+    <string name="title_activity_criarsala">CriarsalaActivity</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+    <string name="title_activity_criar_sala">CriarSalaActivity</string>
+    <string name="title_activity_cadastro_sala">CadastroSalaActivity</string>
+    <string name="title_activity_instrucoes">Instruções</string>
+    <string name="title_activity_view_sala">ViewSalaActivity</string>
+    <string name="title_activity_cidade_rj">CidadeRJActivity</string>
+    <string name="title_activity_cidade_sp">CidadeSPActivity</string>
+    <string name="title_activity_salas_rj">SalasRJActivity</string>
+    <string name="title_activity_salas_sp">SalasSPActivity</string>
+    <string name="title_activity_visualizar_salas_ssa">VisualizarSalasSsaActivity</string>
+    <string name="title_activity_visualizar_salas_sp">VisualizarSalasSpActivity</string>
+    <string name="title_activity_visualizar_salas_rj">VisualizarSalasRjActivity</string>
+
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.treino"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CadastroActivity"
+            android:label="@string/title_activity_cadastro" >
+        </activity>
+        <activity
+            android:name=".EstadoActivity"
+            android:label="@string/title_activity_principal" >
+        </activity>
+        <activity
+            android:name=".EnderecoEstadoActivity"
+            android:label="@string/title_activity_endereco_estado" >
+        </activity>
+        <activity
+            android:name=".CidadeActivity"
+            android:label="@string/title_activity_cidade" >
+        </activity>
+        <activity
+            android:name=".SalasActivity"
+            android:label="@string/title_activity_salas" >
+        </activity>
+        <activity
+            android:name=".CriarsalaActivity"
+            android:label="@string/title_activity_criarsala" >
+        </activity>
+        <activity
+            android:name=".PerfilActivity"
+            android:label="@string/title_activity_perfil" >
+        </activity>
+        <activity
+            android:name=".CriarSalaActivity"
+            android:label="@string/title_activity_criar_sala" >
+        </activity>
+        <activity
+            android:name=".CadastroSalaActivity"
+            android:label="@string/title_activity_cadastro_sala" >
+        </activity>
+        <activity
+            android:name=".InstrucoesActivity"
+            android:label="@string/title_activity_instrucoes" >
+        </activity>
+        <activity
+            android:name=".ViewSalaActivity"
+            android:label="@string/title_activity_view_sala" >
+        </activity>
+        <activity
+            android:name=".CidadeRJActivity"
+            android:label="@string/title_activity_cidade_rj" >
+        </activity>
+        <activity
+            android:name=".CidadeSPActivity"
+            android:label="@string/title_activity_cidade_sp" >
+        </activity>
+        <activity
+            android:name=".SalasRJActivity"
+            android:label="@string/title_activity_salas_rj" >
+        </activity>
+        <activity
+            android:name=".SalasSPActivity"
+            android:label="@string/title_activity_salas_sp" >
+        </activity>
+        <activity
+            android:name=".VisualizarSalasSsaActivity"
+            android:label="@string/title_activity_visualizar_salas_ssa" >
+        </activity>
+        <activity
+            android:name=".VisualizarSalasSpActivity"
+            android:label="@string/title_activity_visualizar_salas_sp" >
+        </activity>
+        <activity
+            android:name=".VisualizarSalasRjActivity"
+            android:label="@string/title_activity_visualizar_salas_rj" >
+        </activity>
+    </application>
+
+</manifest>
